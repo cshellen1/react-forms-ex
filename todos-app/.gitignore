@@ -1,18 +1,15 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/boxes-app/node_modules
-/todos-app/node_modules
+/node_modules
 /.pnp
 .pnp.js
 
 # testing
-/boxes-app/coverage
-/todos-app/coverage
+/coverage
 
 # production
-/boxes-app/build
-/todos-app/build
+/build
 
 # misc
 .DS_Store
